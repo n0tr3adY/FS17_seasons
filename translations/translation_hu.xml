@@ -63,7 +63,7 @@
 
         <text name="SS_NOT_ENOUGH_MONEY" text="Nincs elég pénzed a karbantartásra!" />
         <text name="SS_VEHICLE_REPAIRED" text="A karbantartása a(z) %s gépnek ennyibe került: %s" />
-        <text name="SS_REPAIR_VEHICLE_COST" text="Karbantartása a %s gépnek ennyiért: %s" />
+        <text name="SS_REPAIR_VEHICLE_COST" text="%s javitása: %s" />
         <text name="SS_REPAIR_REQUIRED" text="Karbantartást igényel!" />
         <text name="SS_REPAIR_REQUIRED_IN" text="%.1f munkaóra vagy %d nap, amíg szükséges lesz a karbantartás." />
         <text name="SS_REPAIR_DIALOG" text="El akarod végezni a karbantartást a(z) %s gépen ennyiért: %s?" />
@@ -80,7 +80,6 @@
         <text name="SS_BUTTON_OK" text="OK" />
         <text name="SS_BUTTON_DONT_SHOW_AGAIN" text="Ne mutasd újra" />
 
-        <text name="ss_version" text="A múltban valamikor letöltötted a modunk egy lopott verzióját egy olyan oldalról, ami nem támogatja a modder közösséget és megsértette a minket illető szerzői jogokat, vagy letöltötted a mod nem végleges verzióját. Nagyra értékeljük az érdeklődésed, de a mentett állásod inkompatibilis a Seasons mod ezen verziójával. Arra kérünk, többe ne látogass olyan oldalakat a jövőben, amelyek a modderektől lopnak. Új játékot kell kezdened" />
         <text name="warning_soilIsFrozen" text="A föld fagyott. Nem tudsz dolgozni rajta!" />
         <text name="warning_doNotThreshWithMoisture" text="Ne arass, amikor a növények túl nedvesek!" />
         <text name="warning_animalsKilled" text="Elhullott állatok: (%d)" />
@@ -123,7 +122,7 @@
         <text name="dialog_resetGrowth_no" text="Növény növekedés megtartása" />
         <text name="dialog_resetGrowth_yes" text="alaphelyzetbe" />
         <text name="dialog_timeTravel" text="Szinkronizálás az időgyorsítás után." />
-        <text name="dialog_sleeping" text="Pihenés a következő napig... Zzz..." />
+		<text name="dialog_sleeping" text="Pihenés a következő napig... Zzz..." />
 
         <text name="fillType_snow" text="Hó" />
 
